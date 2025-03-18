@@ -13,3 +13,8 @@
 </p>
 <p align="center">
     <strong><sup>1</sup>East China Normal University</strong> &nbsp;&nbsp;&nbsp; <strong><sup>2</sup>Shanghai Jiao Tong University</strong>
+
+## Contact
+```
+51265904018@stu.ecnu.edu.cn
+```

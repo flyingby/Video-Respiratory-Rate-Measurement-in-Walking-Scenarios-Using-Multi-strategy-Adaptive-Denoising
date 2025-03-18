@@ -1,3 +1,3 @@
 <p align="center">
-  <strong>Respiratory Rate Measurement From Video in Real Walking Scenarios: Using Multi-Strategy Fusion Adaptive Denoising</strong>
-</p>
+     <a href="https://arxiv.org/abs/2403.17881">
+<img width="765" alt="image" src="assets/Title.png">

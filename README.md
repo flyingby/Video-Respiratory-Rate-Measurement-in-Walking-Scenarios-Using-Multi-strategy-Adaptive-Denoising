@@ -1,1 +1,2 @@
-# Respiratory Rate Measurement From Video in Real Walking Scenarios: Using Multi-Strategy Fusion Adaptive Denoising
+<p align="center">
+Respiratory Rate Measurement From Video in Real Walking Scenarios: Using Multi-Strategy Fusion Adaptive Denoising

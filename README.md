@@ -1,4 +1,4 @@
-<p align="center">
+p align="center">
 <img width="1000" alt="image" src="Asset/Title.png">
    <p align="center">
     <a href="https://scholar.google.com.hk/citations?user=1yhGS5sAAAAJ&hl=zh-CN"><strong>Gan Pei <sup>1</sup><sup>*</sup></strong></a>
@@ -34,7 +34,7 @@ For non-contact respiratory rate (RR) measurement, effectively addressing the in
  <p align="center">
 
 ### ✨In-house Walking Breathing Dataset
-The dataset includes two scenes, indoor and outdoor, with 300 samples for each scene. A demo of the dataset is shown below. For dataset requests, please contact the author via email.
+The dataset includes two scenes, indoor and outdoor, with 300 samples for each scene. For dataset requests, please contact the author via email.
 
 ### Contact
 ```

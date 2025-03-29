@@ -1,4 +1,3 @@
-p align="center">
 <img width="1000" alt="image" src="Asset/Title.png">
    <p align="center">
     <a href="https://scholar.google.com.hk/citations?user=1yhGS5sAAAAJ&hl=zh-CN"><strong>Gan Pei <sup>1</sup><sup>*</sup></strong></a>

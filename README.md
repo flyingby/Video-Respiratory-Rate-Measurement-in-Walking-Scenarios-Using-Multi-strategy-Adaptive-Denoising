@@ -16,6 +16,9 @@
 <p align="center">
     <strong><sup>1</sup>East China Normal University</strong> &nbsp;&nbsp;&nbsp; <strong><sup>2</sup>Shanghai Jiao Tong University</strong>
    
+### ✨Abstract
+For non-contact respiratory rate (RR) measurement, effectively addressing the interference from continuous motion artifacts remains a significant challenge. Most existing research focuses on the removal of weak motion artifacts in a two-dimensional plane, and the fixed spatial scale of the scenes limits the generalization of these methods to real-world scenarios, especially in real walking scenarios. To tackle this issue, we propose an RR measurement framework based on a multi-strategy fusion motion artifact suppression algorithm and have constructed a real-world walking dataset. Specifically, the framework consists of two core modules: an ROI automatic selection and adaptive enhancement module to guide the selection of high-quality corner points and a multi-strategy fusion motion artifact removal module that dynamically selects the appropriate strategy to suppress motion interference. Experimental results demonstrate that the method achieves state-of-the-art performance across multiple datasets, with a mean absolute error (MAE) of **1.06 breaths per minute (bpm) on the COHFACE**, **3.32 bpm on the OVRM-Walking dataset**, and an average MAE of just **2.59 bpm on the in-house real-world walking dataset**, which includes both indoor and outdoor scenarios. This study broadens the applicability of camera-based non-contact RR detection technology.
+   
 ### ✨Highlight
 [1]  An adaptive edge enhancement module that integrates RGB three-channel features is proposed, enabling high-quality corner point selection in distant, low-light, and low-resolution ROI regions. 
 
@@ -32,13 +35,6 @@
 
 ### ✨In-house Walking Breathing Dataset
 The dataset includes two scenes, indoor and outdoor, with 300 samples for each scene. A demo of the dataset is shown below. For dataset requests, please contact the author via email.
-<video width="320" height="240" controls>
-  <source src="[https://github.com/yourusername/yourrepo/raw/main/dataset/demo/indoor-demo1.mp4](https://github.com/flyingby/Video-Respiratory-Rate-Measurement-in-Walking-Scenarios-Using-Multi-strategy-Adaptive-Denoising/blob/main/dataset/demo/indoor-demo1.mp4)" type="video/mp4">
-</video>
-
-### ✨Results
-
-
 
 ### Contact
 ```

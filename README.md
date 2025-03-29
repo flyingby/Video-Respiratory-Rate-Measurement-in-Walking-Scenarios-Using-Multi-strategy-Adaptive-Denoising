@@ -26,10 +26,15 @@
 [4]  The proposed method exhibits superior performance compared to state-of-the-art (SOTA) methods on the in-house Walking Breathing dataset, OVRM-Walking dataset and COHFACE dataset.
 
 ### ✨Pipeline
-
+<p align="center">
+<img width="1000" alt="image" src="Asset/Pipeline.png">
+ <p align="center">
 
 ### ✨In-house Walking Breathing Dataset
-
+The dataset includes two scenes, indoor and outdoor, with 300 samples for each scene. A demo of the dataset is shown below. For dataset requests, please contact the author via email.
+<video width="320" height="240" controls>
+  <source src="[https://github.com/yourusername/yourrepo/raw/main/dataset/demo/indoor-demo1.mp4](https://github.com/flyingby/Video-Respiratory-Rate-Measurement-in-Walking-Scenarios-Using-Multi-strategy-Adaptive-Denoising/blob/main/dataset/demo/indoor-demo1.mp4)" type="video/mp4">
+</video>
 
 ### ✨Results
 

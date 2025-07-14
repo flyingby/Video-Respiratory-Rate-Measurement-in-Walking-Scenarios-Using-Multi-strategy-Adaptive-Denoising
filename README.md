@@ -30,7 +30,7 @@ For non-contact respiratory rate (RR) measurement, effectively addressing the in
 
 ### ✨Pipeline
 <p align="center">
-<img width="1000" alt="image" src="Pipeline.png">
+<img width="1000" alt="image" src="Asset/Pipeline.png">
  <p align="center">
 
 ### ✨In-house Walking Breathing Dataset

@@ -17,7 +17,7 @@
    <p align="center">
    <strong>TCSVT 2026</strong>
       <p align="center">
-   <strong>(The relevant data will be made publicly available upon completion of data curation.)</strong>
+   <strong>(The relevant data will be made publicly available upon completion of data curation)</strong>
       <p align="center">
    
 ### ✨Abstract

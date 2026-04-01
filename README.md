@@ -6,7 +6,7 @@
     .
     <a href=""><strong>Chenrui Niu<sup>1</sup></strong></a>
     .
-    <a href=""><strong>Siqiong Yao<sup>2</sup></strong></a>
+    <a href=""><strong>Siqiong Yao<sup>2</sup><sup>#</sup></strong></a>
     .
     <a href="https://scholar.google.com.hk/citations?user=8-Vo9cUAAAAJ&hl=zh-CN"><strong>Menghan Hu<sup>1</sup><sup>#</sup></strong></a>
    . 
@@ -40,6 +40,19 @@ For non-contact respiratory rate (RR) measurement, effectively addressing the in
 
 ### ✨In-house Walking Breathing Dataset
 The dataset includes two scenes, indoor and outdoor, with 300 samples for each scene. For dataset requests, please contact the author via email.
+
+## Cite The Survey
+If you find our research useful for your project, please consider citing our paper:
+
+```bibtex
+@article{pei2026video,
+  author={Pei, Gan and Ning, Junhao and Niu, Chenrui and Yao, Siqiong and Hu, Menghan and Zhai, Guangtao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Video Respiratory Rate Measurement in Walking Scenarios Using Multi-strategy Adaptive Denoising}, 
+  year={2026},
+  volume={Early Acess},
+  doi={10.1109/TCSVT.2026.3679396}}
+```
 
 ### Contact
 ```

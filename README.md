@@ -15,6 +15,7 @@
 <p align="center">
     <strong><sup>1</sup>East China Normal University</strong> &nbsp;&nbsp;&nbsp; <strong><sup>2</sup>Shanghai Jiao Tong University</strong>
    <p align="center">
+      <a href='https://ieeexplore.ieee.org/document/11458734'>
    <strong>TCSVT 2026</strong>
       <p align="center">
    <strong>(The relevant data will be made publicly available upon completion of data curation)</strong>

@@ -65,9 +65,7 @@ The dataset should be organized in the following structure. Taking the COHFACE d
     ...
 ```
 ### 3. Pre-trained HR-Net models
-
-
-### 4. run the main.py
+A `checkpoint` directory should be created under the `lib` folder to store the HRNet weights used in this project. The weights can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1oRCxW-RktbSWrk5B0rpPgN2OLRVWWIko?usp=drive_link).
 
 ## Cite The Paper
 If you find our research useful for your project, please consider citing our paper:

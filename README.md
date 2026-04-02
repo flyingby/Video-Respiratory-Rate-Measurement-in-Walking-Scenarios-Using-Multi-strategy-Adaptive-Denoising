@@ -42,7 +42,34 @@ For non-contact respiratory rate (RR) measurement, effectively addressing the in
 ### ✨In-house Walking Breathing Dataset
 The dataset includes two scenes, indoor and outdoor, with 300 samples for each scene. For dataset requests, please contact the author via email.
 
-## Cite The Survey
+### ✨Getting Started
+1. Create an Environment
+```bash
+conda create -n Walking-Breath python=3.9
+pip install numpy pandas scipy scikit-learn matplotlib tqdm opencv-python h5py
+pip install torch torchvision
+```
+2. Dataset
+The dataset should be organized in the following structure. Taking the COHFACE dataset as an example, it is recommended to obtain COHFACE from official sources.
+```bash
+./COHFACE/
+    subject1/
+        1.avi
+        1.hdf5
+        2.avi
+        2.hdf5
+        ...
+    subject2/
+        1.avi
+        1.hdf5
+        2.avi
+        2.hdf5
+        ...
+    ...
+```
+3. run the main.py
+
+### Cite The Paper
 If you find our research useful for your project, please consider citing our paper:
 
 ```bibtex
